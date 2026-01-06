@@ -1,4 +1,4 @@
-# Theologia Moralis (1835) — Latin/English Aligned Translations
+# Theologia Moralis by Alphonsus Liguori (1835) All Ten Volumes in English + Latin/English Aligned Translations
 
 **Release:** v1 — Public Domain (CC0).  
 **Translator/Editor:** Frank Pearson.  
